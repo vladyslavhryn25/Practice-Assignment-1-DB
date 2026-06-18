@@ -6,4 +6,5 @@
 Для кожного фрілансера та категорії підраховується загальна сума виплат по завершених проєктах.
 Відображаються лише ті, кому заплатили більше 500, відсортовані від більшої суми до меншої. Топ-5 результатів.
 
-<img width="538" height="153" alt="image" src="https://github.com/user-attachments/assets/466e1010-3bce-4227-80eb-f7f1c19faed5" />
+<img width="504" height="141" alt="image" src="https://github.com/user-attachments/assets/890b7fb5-2057-4a7b-b82a-19d7cb3926ab" />
+
